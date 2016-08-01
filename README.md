@@ -1,1 +1,3 @@
 # VimConfig
+
+Vim configuration file
